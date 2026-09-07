@@ -1,0 +1,75 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml:5:5-36
+		INJECTED from /data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml
+	android:compileSdkVersionCodename
+		ADDED from /data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml:4:5-43
+	android:versionName
+		INJECTED from /data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml
+	android:compileSdkVersion
+		ADDED from /data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml:3:5-35
+	android:versionCode
+		INJECTED from /data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml:2:11-69
+	platformBuildVersionName
+		ADDED from /data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml:7:5-34
+	platformBuildVersionCode
+		ADDED from /data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml:6:5-34
+uses-permission#android.permission.QUERY_ALL_PACKAGES
+ADDED from /data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml:8:5-76
+	android:name
+		ADDED from /data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml:8:22-74
+uses-permission#android.permission.INTERNET
+ADDED from /data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml:9:5-66
+	android:name
+		ADDED from /data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml:9:22-64
+uses-sdk
+ADDED from /data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml:10:5-73
+INJECTED from /data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml:10:5-73
+INJECTED from /data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml:10:5-73
+	android:targetSdkVersion
+		ADDED from /data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml:10:42-71
+		INJECTED from /data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml:10:15-41
+		INJECTED from /data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml
+application
+ADDED from /data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml:11:5-28:19
+	android:extractNativeLibs
+		ADDED from /data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml:12:9-41
+	android:label
+		ADDED from /data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml:14:9-38
+	android:roundIcon
+		ADDED from /data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from /data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml:13:9-43
+	android:theme
+		ADDED from /data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml:16:9-51
+property#android.window.PROPERTY_COMPAT_ALLOW_RESTRICTED_RESIZABILITY
+ADDED from /data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml:17:9-19:35
+	android:value
+		ADDED from /data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml:19:13-33
+	android:name
+		ADDED from /data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml:18:13-88
+activity#com.doomsday.injector.MainActivity
+ADDED from /data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml:20:9-27:20
+	android:exported
+		ADDED from /data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml:21:13-36
+	android:name
+		ADDED from /data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml:22:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml:23:13-26:29
+action#android.intent.action.MAIN
+ADDED from /data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml:24:17-68
+	android:name
+		ADDED from /data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml:25:17-76
+	android:name
+		ADDED from /data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml:25:27-74

@@ -1,0 +1,41 @@
+Manifest-Version: 1.0
+
+Name: AndroidManifest.xml
+SHA-256-Digest: sgOJWUsA7sjvFwknt/+xNg7sctwPlOKQUKRCQVf6hPM=
+
+Name: assets/injector_arm64
+SHA-256-Digest: jq4Lw0An6OBPoezXZM+Ugd2QAcyCiedhsfH1Wy4+Mxk=
+
+Name: assets/libdoomsday.so
+SHA-256-Digest: eTfdLatRkJJrcr2Ivfs4CIL6i/ShyMaRyIZ0jIyEGY8=
+
+Name: classes.dex
+SHA-256-Digest: YgIqLmwB2XWj52cHajhBcrInG1FW9VK4r+5mQsyccVE=
+
+Name: res/mipmap-hdpi-v4/ic_launcher.png
+SHA-256-Digest: 5UCayjGj6ofVd32fulRmBE6OK2l09mQCSCOsqwG+m/k=
+
+Name: res/mipmap-mdpi-v4/ic_launcher.png
+SHA-256-Digest: UKKVBdsHKnxu/anSk+N2uAVHMncvq/oOCE7fNo6DbGs=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher.png
+SHA-256-Digest: 6BtZi+d/vXl7bbSeHIHFdy4HaxLkrfJUUK8gGFR6LjY=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher_round.png
+SHA-256-Digest: 6BtZi+d/vXl7bbSeHIHFdy4HaxLkrfJUUK8gGFR6LjY=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher.png
+SHA-256-Digest: 0N1DRlyZuTwzkxmK4fS84B0ac4AHBfSGLjFRLVz6FYc=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher_round.png
+SHA-256-Digest: 0N1DRlyZuTwzkxmK4fS84B0ac4AHBfSGLjFRLVz6FYc=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher.png
+SHA-256-Digest: qA+HzwDF2auq/8fxckLUZgOjX6VjOscNdkU744o6urs=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher_round.png
+SHA-256-Digest: qA+HzwDF2auq/8fxckLUZgOjX6VjOscNdkU744o6urs=
+
+Name: resources.arsc
+SHA-256-Digest: 7YktEvXHaYs1hfL1qs35iOCVJUXoNtAFaotyptNwgWg=
+

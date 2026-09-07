@@ -1,0 +1,64 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.doomsday.injector"
+4    platformBuildVersionCode="35"
+5    platformBuildVersionName="15"
+6    android:compileSdkVersion="35"
+7    android:compileSdkVersionCodename="15"
+8    android:versionCode="1"
+9    android:versionName="1.0" >
+10
+11    <uses-sdk
+11-->/data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml:10:5-73
+12        android:minSdkVersion="24"
+12-->/data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml:10:15-41
+13        android:targetSdkVersion="35" />
+13-->/data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml:10:42-71
+14
+15    <uses-permission android:name="android.permission.QUERY_ALL_PACKAGES" />
+15-->/data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml:8:5-76
+15-->/data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml:8:22-74
+16    <uses-permission android:name="android.permission.INTERNET" />
+16-->/data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml:9:5-66
+16-->/data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml:9:22-64
+17
+18    <application
+18-->/data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml:11:5-28:19
+19        android:debuggable="true"
+20        android:extractNativeLibs="true"
+20-->/data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml:12:9-41
+21        android:icon="@mipmap/ic_launcher"
+21-->/data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml:13:9-43
+22        android:label="Nova Injector"
+22-->/data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml:14:9-38
+23        android:roundIcon="@mipmap/ic_launcher_round"
+23-->/data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml:15:9-54
+24        android:theme="@android:style/Theme.Black" >
+24-->/data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml:16:9-51
+25        <property
+25-->/data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml:17:9-19:35
+26            android:name="android.window.PROPERTY_COMPAT_ALLOW_RESTRICTED_RESIZABILITY"
+26-->/data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml:18:13-88
+27            android:value="true" />
+27-->/data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml:19:13-33
+28
+29        <activity
+29-->/data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml:20:9-27:20
+30            android:name="com.doomsday.injector.MainActivity"
+30-->/data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml:22:13-41
+31            android:exported="true" >
+31-->/data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml:21:13-36
+32            <intent-filter>
+32-->/data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml:23:13-26:29
+33                <action android:name="android.intent.action.MAIN" />
+33-->/data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml:24:17-68
+33-->/data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml:24:25-66
+34
+35                <category android:name="android.intent.category.LAUNCHER" />
+35-->/data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml:25:17-76
+35-->/data/data/com.termux/files/home/.cache/opencode/tmp/doomsday-app/app/src/main/AndroidManifest.xml:25:27-74
+36            </intent-filter>
+37        </activity>
+38    </application>
+39
+40</manifest>
