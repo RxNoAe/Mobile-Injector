@@ -1,0 +1,46 @@
+# Build outputs
+build/
+*.apk
+*.apks
+*.idsig
+*.dex
+
+# Gradle
+.gradle/
+gradle/
+
+# Extracted APKs
+apk-extract/
+fresh-extract/
+fresh-build/
+fresh-smali/
+proper-patch/
+test-smali/
+test-*/
+patch-test/
+smali-new/
+verify-*/
+check-fix/
+doomsday-temp/
+check-smali/
+orig-smali/
+orig-dex-smali/
+fintech-smali/
+fintech-ui/
+current-ui/
+
+# Generated files
+classes.txt
+check.dex
+check-orig.dex
+test-*.dex
+patch-test.dex
+fintech-classes.dex
+doomsday-*.apk
+test-*.apk
+working-mod.apk
+*.orig
+*.bak
+
+# OS
+.DS_Store
